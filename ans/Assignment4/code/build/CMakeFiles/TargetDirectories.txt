@@ -1,0 +1,3 @@
+/home/south/graphics/ans/GAMES101/Assignment4/code/build/CMakeFiles/BezierCurve.dir
+/home/south/graphics/ans/GAMES101/Assignment4/code/build/CMakeFiles/edit_cache.dir
+/home/south/graphics/ans/GAMES101/Assignment4/code/build/CMakeFiles/rebuild_cache.dir
